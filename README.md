@@ -1,1 +1,1 @@
-Check if your passwords are strong using the Java Password Strength Meter! Using Recconmendations from security.org to guide you!
+Check if your passwords are strong using the Java Password Strength Meter! This uses recconmendations from security.org to guide you!
